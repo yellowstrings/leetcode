@@ -8,18 +8,18 @@
 
 *Example 1:*
 
-Input: `flowerbed = [1,0,0,0,1], n = 1` <br>
-Output: true
+Input: `flowerbed = [1,0,0,0,1]`, `n = 1` <br>
+Output: `true`
 
 *Example 2:*
 
-Input: `flowerbed = [1,0,0,0,1], n = 2` <br>
-Output: false
+Input: `flowerbed = [1,0,0,0,1]`, `n = 2` <br>
+Output: `false`
  
 
 *Constraints:*
 
-- 1 <= flowerbed.length <= 2 * 10^4
-- flowerbed[i] is 0 or 1.
+- `1 <= flowerbed.length <= 2 * 10^4`
+- `flowerbed[i]` is 0 or 1.
 - There are no two adjacent flowers in flowerbed.
-- 0 <= n <= flowerbed.length
+- `0 <= n <= flowerbed.length`
