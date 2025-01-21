@@ -9,12 +9,12 @@
 *Example 1:*
 
 Input: `flowerbed = [1,0,0,0,1], n = 1` <br>
-Output: true
+Output: `true`
 
 *Example 2:*
 
 Input: `flowerbed = [1,0,0,0,1], n = 2` <br>
-Output: false
+Output: `false`
  
 
 *Constraints:*
