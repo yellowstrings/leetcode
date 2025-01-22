@@ -9,4 +9,4 @@ const isPalindrome = function(s) {
     return false;
 };
 
-//leetcode accepted
+// leetcode accepted
